@@ -1,2 +1,5 @@
 # git-demo
-This is sample git-demo for practice.
+This is a sample git demo for practice.
+<br>
+Author - Rohith.
+
